@@ -1,0 +1,10 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ã×Ù×
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(Õ¶Àó
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(«È‰©
+?
+java:S1068")Remove this unused "marca" private field.(š’Ôæ
+@
+java:S1068"*Remove this unused "ehFlex" private field.(½âÈ»
+B
+java:S1068	",Remove this unused "qtPortas" private field.(êÃ‘¤

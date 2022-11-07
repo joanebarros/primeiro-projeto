@@ -1,0 +1,8 @@
+
+~
+java:S4165	"cRemove this useless assignment; "media" already holds the assigned value along all execution paths.(‰Íşêúÿÿÿÿ
+F
+java:S1172"+Remove this unused method parameter "nota".(²Ôí™ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢¤ñşÿÿÿÿ
+J
+java:S1656	"/Remove or correct this useless self-assignment.(‰Íşêúÿÿÿÿ

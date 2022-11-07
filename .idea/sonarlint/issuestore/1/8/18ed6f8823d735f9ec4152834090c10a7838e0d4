@@ -1,0 +1,13 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Û·éşÿÿÿÿ8´÷‡º½0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õ©©ºûÿÿÿÿ8µ÷‡º½0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¨ğ÷F8¶÷‡º½0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İ­Š8¶÷‡º½0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡Ùúÿÿÿÿ8·÷‡º½0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(üÃôê8¸÷‡º½0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜±À™8¸÷‡º½0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¥·Ö¡şÿÿÿÿ8¸÷‡º½0
+9
+java:S6205%"Remove this redundant block.(üØô8¸÷‡º½0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ÉÃ«üÿÿÿÿ8¸÷‡º½0

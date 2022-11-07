@@ -1,0 +1,11 @@
+
+i
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ž–ëÿ
+M
+java:S1068
+"2Remove this unused "dataNascimento" private field.(ŽÊˆËúÿÿÿÿ
+E
+java:S1068"*Remove this unused "altura" private field.(ÇºÖ¤ùÿÿÿÿ
+C
+java:S1068"(Remove this unused "peso" private field.(¡ªÜ«ûÿÿÿÿ

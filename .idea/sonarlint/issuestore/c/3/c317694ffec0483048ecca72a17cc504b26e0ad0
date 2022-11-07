@@ -1,0 +1,14 @@
+
+i
+java:S1192	"GDefine a constant instead of duplicating this literal "Carlos" 3 times.(ÛÍé¦ÿÿÿÿÿ8­ŠÎÙ¾0
+]
+java:S1854";Remove this useless assignment to local variable "pessoa5".(ç€†ûÿÿÿÿ8ºŠÎÙ¾0
+]
+java:S1854";Remove this useless assignment to local variable "pessoa3".(ÀŞœîûÿÿÿÿ8»ŠÎÙ¾0
+N
+java:S1481",Remove this unused "pessoa3" local variable.(ÀŞœîûÿÿÿÿ8¼ŠÎÙ¾0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ó‰®×8½ŠÎÙ¾0
+N
+java:S1481",Remove this unused "pessoa5" local variable.(ç€†ûÿÿÿÿ8½ŠÎÙ¾0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šªÈ‹8¾ŠÎÙ¾0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(±­£ÿıÿÿÿÿ8¿ŠÎÙ¾0

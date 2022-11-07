@@ -1,0 +1,22 @@
+
+V
+java:S1854	"9Remove this useless assignment to local variable "nomes".(Í¦¬8ŞÛÒÚ¿0
+G
+java:S1481	"*Remove this unused "nomes" local variable.(Í¦¬8îÛÒÚ¿0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Èú£Ì8òÛÒÚ¿0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Èú£Ì8óÛÒÚ¿0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚¡¶¯8óÛÒÚ¿0
+X	java:S125"<This block of commented-out lines of code should be removed.(™çİ»8ôÛÒÚ¿0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Èú£Ì8ôÛÒÚ¿0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Èú£Ì8õÛÒÚ¿0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Èú£Ì8õÛÒÚ¿0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(Èú£Ì8öÛÒÚ¿0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ÿ¢Ç¢şÿÿÿÿ8öÛÒÚ¿0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(…ÏÑıøÿÿÿÿ8úÛÒÚ¿0
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(¦œß®8ûÛÒÚ¿0
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(™¢Â¹8ûÛÒÚ¿0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(¤øóäÿÿÿÿÿ8üÛÒÚ¿0
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ûœİŞùÿÿÿÿ8ıÛÒÚ¿0
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ÕÏËÿÿÿÿÿ8ıÛÒÚ¿0
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(öîêÁùÿÿÿÿ8şÛÒÚ¿0
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(†’Êåşÿÿÿÿ8şÛÒÚ¿0

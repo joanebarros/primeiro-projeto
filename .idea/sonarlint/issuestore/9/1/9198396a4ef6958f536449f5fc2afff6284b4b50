@@ -1,0 +1,7 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßóÿì
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(áÃËùÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¿Îåè
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Õñ‚—
+C
+java:S1068"(Remove this unused "raca" private field.(ùÚ—³øÿÿÿÿ

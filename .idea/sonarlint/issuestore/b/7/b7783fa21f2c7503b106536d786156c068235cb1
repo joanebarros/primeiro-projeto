@@ -1,0 +1,17 @@
+
+[
+java:S1854"@Remove this useless assignment to local variable "resultadoDiv".(šªÕÛúÿÿÿÿ
+W
+java:S1854"ARemove this useless assignment to local variable "resultadoMult".(¤ÖùÃ
+[
+java:S1854"@Remove this useless assignment to local variable "resultadoSub".(ú¬Ûûÿÿÿÿ
+V
+java:S1854"ARemove this useless assignment to local variable "resultadoSoma".(šÆıP
+G
+java:S1481"2Remove this unused "resultadoSoma" local variable.(šÆıP
+L
+java:S1481"1Remove this unused "resultadoSub" local variable.(ú¬Ûûÿÿÿÿ
+H
+java:S1481"2Remove this unused "resultadoMult" local variable.(¤ÖùÃ
+L
+java:S1481"1Remove this unused "resultadoDiv" local variable.(šªÕÛúÿÿÿÿ
